@@ -157,7 +157,7 @@ nav {
 
 .about-me__picture--mask {
   width: 100px;
-  height: 100px;
+  height: 150px;
   border-radius: 100%;
   overflow: hidden;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.16);
